@@ -21,9 +21,9 @@ const Header = () => {
        <div className="border-b w-full inline-block border-blue-400 py-8">
           <div className="md:float-left block">
             <Link href="/">
-                <div className="cursor-pointer">
+                <span className="cursor-pointer">
                 <Image src="/White logo - no background.png" width="300" height="50" />
-                </div>
+                </span>
             </Link>
           </div>
           <div className="hidden md:float-left md:contents">
