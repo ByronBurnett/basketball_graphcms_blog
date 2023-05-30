@@ -22,7 +22,7 @@ const Header = () => {
           <div className="md:float-left block">
             <Link href="/">
                 <span className="cursor-pointer">
-                <Image src="/White logo - no background.png" width="300" height="50" />
+                <Image src="/White logo - no background.png" width="200" height="100" />
                 </span>
             </Link>
           </div>
